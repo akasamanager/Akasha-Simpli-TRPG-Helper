@@ -1,0 +1,5 @@
+{
+  "name": "Akasha Simpli TRPG Helper",
+  "description": "An interactive web app to explore the Akasha Simpli TRPG rules and create characters step-by-step, based on the provided rulebook.",
+  "requestFramePermissions": []
+}
